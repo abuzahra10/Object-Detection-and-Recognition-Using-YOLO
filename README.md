@@ -104,30 +104,7 @@ Inspired by real-world adversarial attacks (e.g., STOP-sign T-shirt spoofing), t
 
 ---
 
-## 📌 Conclusion
 
-This project advances the safety pipeline for autonomous vehicles by implementing real-time traffic sign detection. YOLO’s speed and precision make it suitable for in-vehicle applications. Combined with pedestrian detection and spoof handling, this forms a robust perception layer for self-driving systems.
-
----
-
-## 🔮 Future Work
-
-- Integration with lane and traffic light detection
-- Deployment on Jetson Nano or Raspberry Pi
-- Nighttime enhancement with thermal/infrared datasets
-
----
-
-## 👥 Team & Submission
-
-- Submitted for: **Object Detection and Recognition**, Spring 2025  
-- Institution: German International University  
-- Deadline: **May 22, 2025 at 11:59 PM**  
-- Submission Form: [forms.office.com/r/R4ee9bdgUu](https://forms.office.com/r/R4ee9bdgUu)
-
-> Plagiarism is strictly prohibited and will result in zero credit for all involved parties.
-
----
 
 ## 📚 References
 
